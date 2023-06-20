@@ -1,10 +1,11 @@
 # Welcome to UNSW Rhythm Game Society's GitHub
 
-This page is currently under construction,
+This organisation and its repositories are currently maintained by [@HARI-PRMD](https://github.com/HARI-PRMD), RGS's Current Secretary
 
-We will have exciting information and pages about
+## Applications we currently have:
 
-- Tournaments
-- Our Society Events
-- Cool programs that we'll develop to improve the society.
+- verification bot for our discord server
 
+## Future plans: 
+
+- Main club website showcasing events etc
