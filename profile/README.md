@@ -1,6 +1,6 @@
 # Welcome to UNSW Rhythm Game Society's GitHub
 
-This organisation and its repositories are maintained by [@HARI-PRMD](https://github.com/HARI-PRMD), RGS's current Secretary
+This organisation and its repositories are maintained by [@HARI-PRMD](https://github.com/HARI-PRMD), a retired RGS Secretary
 
 ## Applications we currently have:
 
